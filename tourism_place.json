@@ -6,315 +6,315 @@
   "data": [
     {
       "placeName": "Angkor Wat",
-      "placeAddress": "Siem Reap Province, Cambodia",
-      "distanceFromPhnomPenhKm": 320,
-      "placeDescription": "The most iconic temple complex in Cambodia and a UNESCO World Heritage Site, representing the pinnacle of Khmer architecture."
+      "address": "Siem Reap Province, Cambodia",
+      "distance": 320,
+      "description": "The most iconic temple complex in Cambodia and a UNESCO World Heritage Site, representing the pinnacle of Khmer architecture."
     },
     {
       "placeName": "Bayon Temple",
-      "placeAddress": "Siem Reap Province, Cambodia",
-      "distanceFromPhnomPenhKm": 320,
-      "placeDescription": "Famous for its massive stone faces and intricate bas-reliefs, located in the center of Angkor Thom."
+      "address": "Siem Reap Province, Cambodia",
+      "distance": 320,
+      "description": "Famous for its massive stone faces and intricate bas-reliefs, located in the center of Angkor Thom."
     },
     {
       "placeName": "Ta Prohm",
-      "placeAddress": "Siem Reap Province, Cambodia",
-      "distanceFromPhnomPenhKm": 320,
-      "placeDescription": "A temple left mostly unrestored, with trees growing through the stone structures, creating a mystical jungle atmosphere."
+      "address": "Siem Reap Province, Cambodia",
+      "distance": 320,
+      "description": "A temple left mostly unrestored, with trees growing through the stone structures, creating a mystical jungle atmosphere."
     },
     {
       "placeName": "Banteay Srei",
-      "placeAddress": "Siem Reap Province, Cambodia",
-      "distanceFromPhnomPenhKm": 330,
-      "placeDescription": "A small but beautifully detailed temple built of pink sandstone, known as the 'Jewel of Khmer Art'."
+      "address": "Siem Reap Province, Cambodia",
+      "distance": 330,
+      "description": "A small but beautifully detailed temple built of pink sandstone, known as the 'Jewel of Khmer Art'."
     },
     {
       "placeName": "Koh Rong Island",
-      "placeAddress": "Sihanoukville Province, Cambodia",
-      "distanceFromPhnomPenhKm": 230,
-      "placeDescription": "A stunning island known for crystal-clear waters, coral reefs, and white sand beaches."
+      "address": "Sihanoukville Province, Cambodia",
+      "distance": 230,
+      "description": "A stunning island known for crystal-clear waters, coral reefs, and white sand beaches."
     },
     {
       "placeName": "Koh Rong Samloem",
-      "placeAddress": "Sihanoukville Province, Cambodia",
-      "distanceFromPhnomPenhKm": 230,
-      "placeDescription": "A quieter sister island of Koh Rong, perfect for relaxing and enjoying untouched nature."
+      "address": "Sihanoukville Province, Cambodia",
+      "distance": 230,
+      "description": "A quieter sister island of Koh Rong, perfect for relaxing and enjoying untouched nature."
     },
     {
       "placeName": "Bokor National Park",
-      "placeAddress": "Kampot Province, Cambodia",
-      "distanceFromPhnomPenhKm": 170,
-      "placeDescription": "A mountain park featuring waterfalls, misty views, and historical French colonial buildings."
+      "address": "Kampot Province, Cambodia",
+      "distance": 170,
+      "description": "A mountain park featuring waterfalls, misty views, and historical French colonial buildings."
     },
     {
       "placeName": "Kampot Pepper Plantations",
-      "placeAddress": "Kampot Province, Cambodia",
-      "distanceFromPhnomPenhKm": 150,
-      "placeDescription": "Renowned pepper farms producing world-famous Kampot pepper, offering guided tours and tastings."
+      "address": "Kampot Province, Cambodia",
+      "distance": 150,
+      "description": "Renowned pepper farms producing world-famous Kampot pepper, offering guided tours and tastings."
     },
     {
       "placeName": "Phnom Chisor",
-      "placeAddress": "Takeo Province, Cambodia",
-      "distanceFromPhnomPenhKm": 60,
-      "placeDescription": "An ancient hilltop temple offering panoramic views of the countryside."
+      "address": "Takeo Province, Cambodia",
+      "distance": 60,
+      "description": "An ancient hilltop temple offering panoramic views of the countryside."
     },
     {
       "placeName": "Tonle Bati Temple",
-      "placeAddress": "Takeo Province, Cambodia",
-      "distanceFromPhnomPenhKm": 40,
-      "placeDescription": "A serene temple complex beside a peaceful lake, popular for picnics and weekend visits."
+      "address": "Takeo Province, Cambodia",
+      "distance": 40,
+      "description": "A serene temple complex beside a peaceful lake, popular for picnics and weekend visits."
     },
     {
       "placeName": "Phnom Tamao Wildlife Rescue Center",
-      "placeAddress": "Takeo Province, Cambodia",
-      "distanceFromPhnomPenhKm": 45,
-      "placeDescription": "A large wildlife sanctuary housing rescued animals like tigers, elephants, and bears."
+      "address": "Takeo Province, Cambodia",
+      "distance": 45,
+      "description": "A large wildlife sanctuary housing rescued animals like tigers, elephants, and bears."
     },
     {
       "placeName": "Kampong Ayer Temple",
-      "placeAddress": "Kampong Chhnang Province, Cambodia",
-      "distanceFromPhnomPenhKm": 90,
-      "placeDescription": "An ancient riverside pagoda located along the Tonle Sap River with beautiful local architecture."
+      "address": "Kampong Chhnang Province, Cambodia",
+      "distance": 90,
+      "description": "An ancient riverside pagoda located along the Tonle Sap River with beautiful local architecture."
     },
     {
       "placeName": "Kampong Chhnang Floating Village",
-      "placeAddress": "Kampong Chhnang Province, Cambodia",
-      "distanceFromPhnomPenhKm": 95,
-      "placeDescription": "A community of floating houses and boats along the Tonle Sap, showcasing local river life."
+      "address": "Kampong Chhnang Province, Cambodia",
+      "distance": 95,
+      "description": "A community of floating houses and boats along the Tonle Sap, showcasing local river life."
     },
     {
       "placeName": "Phnom Santuk",
-      "placeAddress": "Kampong Thom Province, Cambodia",
-      "distanceFromPhnomPenhKm": 170,
-      "placeDescription": "A sacred mountain temple with ancient Buddha statues and panoramic countryside views."
+      "address": "Kampong Thom Province, Cambodia",
+      "distance": 170,
+      "description": "A sacred mountain temple with ancient Buddha statues and panoramic countryside views."
     },
     {
       "placeName": "Sambo Prei Kuk",
-      "placeAddress": "Kampong Thom Province, Cambodia",
-      "distanceFromPhnomPenhKm": 170,
-      "placeDescription": "Pre-Angkorian temple ruins recognized as a UNESCO World Heritage Site."
+      "address": "Kampong Thom Province, Cambodia",
+      "distance": 170,
+      "description": "Pre-Angkorian temple ruins recognized as a UNESCO World Heritage Site."
     },
     {
       "placeName": "Prasat Tamon (Tamon Temple)",
-      "placeAddress": "Battambang Province, Cambodia",
-      "distanceFromPhnomPenhKm": 300,
-      "placeDescription": "An ancient Khmer temple hidden in lush greenery, known for its peaceful environment."
+      "address": "Battambang Province, Cambodia",
+      "distance": 300,
+      "description": "An ancient Khmer temple hidden in lush greenery, known for its peaceful environment."
     },
     {
       "placeName": "Phnom Sampeau",
-      "placeAddress": "Battambang Province, Cambodia",
-      "distanceFromPhnomPenhKm": 295,
-      "placeDescription": "A hilltop site with caves, pagodas, and memorials, offering sunset views and a bat cave spectacle."
+      "address": "Battambang Province, Cambodia",
+      "distance": 295,
+      "description": "A hilltop site with caves, pagodas, and memorials, offering sunset views and a bat cave spectacle."
     },
     {
       "placeName": "Wat Banan Temple",
-      "placeAddress": "Battambang Province, Cambodia",
-      "distanceFromPhnomPenhKm": 300,
-      "placeDescription": "An 11th-century Angkor-style temple located on a hill with scenic countryside views."
+      "address": "Battambang Province, Cambodia",
+      "distance": 300,
+      "description": "An 11th-century Angkor-style temple located on a hill with scenic countryside views."
     },
     {
       "placeName": "Bamboo Train (Norry)",
-      "placeAddress": "Battambang Province, Cambodia",
-      "distanceFromPhnomPenhKm": 295,
-      "placeDescription": "A fun and unique bamboo railway ride through the Cambodian countryside."
+      "address": "Battambang Province, Cambodia",
+      "distance": 295,
+      "description": "A fun and unique bamboo railway ride through the Cambodian countryside."
     },
     {
       "placeName": "Preah Vihear Temple",
-      "placeAddress": "Preah Vihear Province, Cambodia",
-      "distanceFromPhnomPenhKm": 410,
-      "placeDescription": "A stunning cliff-top temple dedicated to Shiva, offering dramatic views over Thailand and Cambodia."
+      "address": "Preah Vihear Province, Cambodia",
+      "distance": 410,
+      "description": "A stunning cliff-top temple dedicated to Shiva, offering dramatic views over Thailand and Cambodia."
     },
     {
       "placeName": "Koh Ker Temple",
-      "placeAddress": "Preah Vihear Province, Cambodia",
-      "distanceFromPhnomPenhKm": 360,
-      "placeDescription": "A remote ancient city featuring a seven-tiered pyramid temple surrounded by jungle."
+      "address": "Preah Vihear Province, Cambodia",
+      "distance": 360,
+      "description": "A remote ancient city featuring a seven-tiered pyramid temple surrounded by jungle."
     },
     {
       "placeName": "Kulen Mountain",
-      "placeAddress": "Siem Reap Province, Cambodia",
-      "distanceFromPhnomPenhKm": 340,
-      "placeDescription": "A sacred mountain with waterfalls, Buddha carvings, and historical significance to the Khmer Empire."
+      "address": "Siem Reap Province, Cambodia",
+      "distance": 340,
+      "description": "A sacred mountain with waterfalls, Buddha carvings, and historical significance to the Khmer Empire."
     },
     {
       "placeName": "1000 Lingas River (Kbal Spean)",
-      "placeAddress": "Siem Reap Province, Cambodia",
-      "distanceFromPhnomPenhKm": 335,
-      "placeDescription": "A sacred riverbed with thousands of carvings depicting Hindu deities."
+      "address": "Siem Reap Province, Cambodia",
+      "distance": 335,
+      "description": "A sacred riverbed with thousands of carvings depicting Hindu deities."
     },
     {
       "placeName": "Tonle Sap Lake",
-      "placeAddress": "Siem Reap Province, Cambodia",
-      "distanceFromPhnomPenhKm": 310,
-      "placeDescription": "Southeast Asia’s largest freshwater lake, home to floating villages and rich biodiversity."
+      "address": "Siem Reap Province, Cambodia",
+      "distance": 310,
+      "description": "Southeast Asia’s largest freshwater lake, home to floating villages and rich biodiversity."
     },
     {
       "placeName": "Kratie Dolphin Area",
-      "placeAddress": "Kratie Province, Cambodia",
-      "distanceFromPhnomPenhKm": 250,
-      "placeDescription": "A scenic area along the Mekong River where visitors can spot rare Irrawaddy dolphins."
+      "address": "Kratie Province, Cambodia",
+      "distance": 250,
+      "description": "A scenic area along the Mekong River where visitors can spot rare Irrawaddy dolphins."
     },
     {
       "placeName": "Koh Trong Island",
-      "placeAddress": "Kratie Province, Cambodia",
-      "distanceFromPhnomPenhKm": 250,
-      "placeDescription": "A peaceful island in the Mekong River with cycling paths and local homestays."
+      "address": "Kratie Province, Cambodia",
+      "distance": 250,
+      "description": "A peaceful island in the Mekong River with cycling paths and local homestays."
     },
     {
       "placeName": "Mondulkiri Elephant Valley Project",
-      "placeAddress": "Mondulkiri Province, Cambodia",
-      "distanceFromPhnomPenhKm": 370,
-      "placeDescription": "A conservation project that allows visitors to see rescued elephants in their natural forest habitat."
+      "address": "Mondulkiri Province, Cambodia",
+      "distance": 370,
+      "description": "A conservation project that allows visitors to see rescued elephants in their natural forest habitat."
     },
     {
       "placeName": "Bousra Waterfall",
-      "placeAddress": "Mondulkiri Province, Cambodia",
-      "distanceFromPhnomPenhKm": 380,
-      "placeDescription": "A majestic multi-tiered waterfall surrounded by jungle and ethnic minority villages."
+      "address": "Mondulkiri Province, Cambodia",
+      "distance": 380,
+      "description": "A majestic multi-tiered waterfall surrounded by jungle and ethnic minority villages."
     },
     {
       "placeName": "Sen Monorom Town",
-      "placeAddress": "Mondulkiri Province, Cambodia",
-      "distanceFromPhnomPenhKm": 370,
-      "placeDescription": "A cool highland town known for its rolling hills, coffee farms, and eco-tourism lodges."
+      "address": "Mondulkiri Province, Cambodia",
+      "distance": 370,
+      "description": "A cool highland town known for its rolling hills, coffee farms, and eco-tourism lodges."
     },
     {
       "placeName": "Ratanakiri Yeak Laom Lake",
-      "placeAddress": "Ratanakiri Province, Cambodia",
-      "distanceFromPhnomPenhKm": 520,
-      "placeDescription": "A beautiful volcanic lake surrounded by rainforest, perfect for swimming and relaxing."
+      "address": "Ratanakiri Province, Cambodia",
+      "distance": 520,
+      "description": "A beautiful volcanic lake surrounded by rainforest, perfect for swimming and relaxing."
     },
     {
       "placeName": "Katieng Waterfall",
-      "placeAddress": "Ratanakiri Province, Cambodia",
-      "distanceFromPhnomPenhKm": 530,
-      "placeDescription": "A scenic waterfall hidden within Ratanakiri’s lush forest."
+      "address": "Ratanakiri Province, Cambodia",
+      "distance": 530,
+      "description": "A scenic waterfall hidden within Ratanakiri’s lush forest."
     },
     {
       "placeName": "Banlung Market",
-      "placeAddress": "Ratanakiri Province, Cambodia",
-      "distanceFromPhnomPenhKm": 520,
-      "placeDescription": "A lively local market selling traditional crafts and local produce."
+      "address": "Ratanakiri Province, Cambodia",
+      "distance": 520,
+      "description": "A lively local market selling traditional crafts and local produce."
     },
     {
       "placeName": "Phnom Penh Royal Palace",
-      "placeAddress": "Phnom Penh, Cambodia",
-      "distanceFromPhnomPenhKm": 0,
-      "placeDescription": "The official residence of the King of Cambodia, featuring golden pagodas and beautiful gardens."
+      "address": "Phnom Penh, Cambodia",
+      "distance": 0,
+      "description": "The official residence of the King of Cambodia, featuring golden pagodas and beautiful gardens."
     },
     {
       "placeName": "National Museum of Cambodia",
-      "placeAddress": "Phnom Penh, Cambodia",
-      "distanceFromPhnomPenhKm": 0,
-      "placeDescription": "Houses the world’s largest collection of Khmer art and artifacts."
+      "address": "Phnom Penh, Cambodia",
+      "distance": 0,
+      "description": "Houses the world’s largest collection of Khmer art and artifacts."
     },
     {
       "placeName": "Wat Phnom",
-      "placeAddress": "Phnom Penh, Cambodia",
-      "distanceFromPhnomPenhKm": 0,
-      "placeDescription": "A historic pagoda on a small hill in the city center, marking the birthplace of Phnom Penh."
+      "address": "Phnom Penh, Cambodia",
+      "distance": 0,
+      "description": "A historic pagoda on a small hill in the city center, marking the birthplace of Phnom Penh."
     },
     {
       "placeName": "Independence Monument",
-      "placeAddress": "Phnom Penh, Cambodia",
-      "distanceFromPhnomPenhKm": 0,
-      "placeDescription": "Built to commemorate Cambodia’s independence from France in 1953."
+      "address": "Phnom Penh, Cambodia",
+      "distance": 0,
+      "description": "Built to commemorate Cambodia’s independence from France in 1953."
     },
     {
       "placeName": "Choeung Ek Killing Fields",
-      "placeAddress": "Phnom Penh, Cambodia",
-      "distanceFromPhnomPenhKm": 15,
-      "placeDescription": "A memorial site dedicated to victims of the Khmer Rouge regime."
+      "address": "Phnom Penh, Cambodia",
+      "distance": 15,
+      "description": "A memorial site dedicated to victims of the Khmer Rouge regime."
     },
     {
       "placeName": "Tuol Sleng Genocide Museum",
-      "placeAddress": "Phnom Penh, Cambodia",
-      "distanceFromPhnomPenhKm": 0,
-      "placeDescription": "A former high school turned into a prison during the Khmer Rouge era, now a museum of remembrance."
+      "address": "Phnom Penh, Cambodia",
+      "distance": 0,
+      "description": "A former high school turned into a prison during the Khmer Rouge era, now a museum of remembrance."
     },
     {
       "placeName": "Kep Beach",
-      "placeAddress": "Kep Province, Cambodia",
-      "distanceFromPhnomPenhKm": 165,
-      "placeDescription": "A small seaside town known for its crab market, quiet beaches, and sunset views."
+      "address": "Kep Province, Cambodia",
+      "distance": 165,
+      "description": "A small seaside town known for its crab market, quiet beaches, and sunset views."
     },
     {
       "placeName": "Rabbit Island (Koh Tonsay)",
-      "placeAddress": "Kep Province, Cambodia",
-      "distanceFromPhnomPenhKm": 170,
-      "placeDescription": "A small island off Kep’s coast, popular for its laid-back vibe and clear waters."
+      "address": "Kep Province, Cambodia",
+      "distance": 170,
+      "description": "A small island off Kep’s coast, popular for its laid-back vibe and clear waters."
     },
     {
       "placeName": "Kampong Cham Bamboo Bridge",
-      "placeAddress": "Kampong Cham Province, Cambodia",
-      "distanceFromPhnomPenhKm": 125,
-      "placeDescription": "A seasonal bamboo bridge rebuilt annually by locals to connect to Koh Paen Island."
+      "address": "Kampong Cham Province, Cambodia",
+      "distance": 125,
+      "description": "A seasonal bamboo bridge rebuilt annually by locals to connect to Koh Paen Island."
     },
     {
       "placeName": "Hanchey Temple",
-      "placeAddress": "Kampong Cham Province, Cambodia",
-      "distanceFromPhnomPenhKm": 130,
-      "placeDescription": "An ancient hilltop temple overlooking the Mekong River."
+      "address": "Kampong Cham Province, Cambodia",
+      "distance": 130,
+      "description": "An ancient hilltop temple overlooking the Mekong River."
     },
     {
       "placeName": "Sihanoukville Beaches",
-      "placeAddress": "Sihanoukville Province, Cambodia",
-      "distanceFromPhnomPenhKm": 230,
-      "placeDescription": "Famous for long stretches of sandy beaches and nearby islands."
+      "address": "Sihanoukville Province, Cambodia",
+      "distance": 230,
+      "description": "Famous for long stretches of sandy beaches and nearby islands."
     },
     {
       "placeName": "Otres Beach",
-      "placeAddress": "Sihanoukville Province, Cambodia",
-      "distanceFromPhnomPenhKm": 235,
-      "placeDescription": "A peaceful and scenic beach area ideal for swimming and sunsets."
+      "address": "Sihanoukville Province, Cambodia",
+      "distance": 235,
+      "description": "A peaceful and scenic beach area ideal for swimming and sunsets."
     },
     {
       "placeName": "Kbal Chhay Waterfall",
-      "placeAddress": "Sihanoukville Province, Cambodia",
-      "distanceFromPhnomPenhKm": 230,
-      "placeDescription": "A natural waterfall surrounded by forest, great for a short hike or picnic."
+      "address": "Sihanoukville Province, Cambodia",
+      "distance": 230,
+      "description": "A natural waterfall surrounded by forest, great for a short hike or picnic."
     },
     {
       "placeName": "Phnom Da Temple",
-      "placeAddress": "Takeo Province, Cambodia",
-      "distanceFromPhnomPenhKm": 80,
-      "placeDescription": "A 6th-century temple built on a small hill, one of Cambodia’s oldest religious sites."
+      "address": "Takeo Province, Cambodia",
+      "distance": 80,
+      "description": "A 6th-century temple built on a small hill, one of Cambodia’s oldest religious sites."
     },
     {
       "placeName": "Chisor Mountain Temple",
-      "placeAddress": "Takeo Province, Cambodia",
-      "distanceFromPhnomPenhKm": 60,
-      "placeDescription": "An ancient temple ruin offering breathtaking countryside views."
+      "address": "Takeo Province, Cambodia",
+      "distance": 60,
+      "description": "An ancient temple ruin offering breathtaking countryside views."
     },
     {
       "placeName": "Prey Veng Lake",
-      "placeAddress": "Prey Veng Province, Cambodia",
-      "distanceFromPhnomPenhKm": 90,
-      "placeDescription": "A peaceful lake surrounded by rice fields, perfect for local-style relaxation."
+      "address": "Prey Veng Province, Cambodia",
+      "distance": 90,
+      "description": "A peaceful lake surrounded by rice fields, perfect for local-style relaxation."
     },
     {
       "placeName": "Svay Rieng Dragon Bridge",
-      "placeAddress": "Svay Rieng Province, Cambodia",
-      "distanceFromPhnomPenhKm": 130,
-      "placeDescription": "A unique bridge shaped like a dragon, a popular local photo spot."
+      "address": "Svay Rieng Province, Cambodia",
+      "distance": 130,
+      "description": "A unique bridge shaped like a dragon, a popular local photo spot."
     },
     {
       "placeName": "Neak Loeung Bridge (Tsubasa Bridge)",
-      "placeAddress": "Kandal Province, Cambodia",
-      "distanceFromPhnomPenhKm": 60,
-      "placeDescription": "A massive Japanese-built bridge spanning the Mekong River, connecting Kandal and Prey Veng."
+      "address": "Kandal Province, Cambodia",
+      "distance": 60,
+      "description": "A massive Japanese-built bridge spanning the Mekong River, connecting Kandal and Prey Veng."
     },
     {
       "placeName": "Udong Mountain",
-      "placeAddress": "Kandal Province, Cambodia",
-      "distanceFromPhnomPenhKm": 40,
-      "placeDescription": "A former royal capital featuring stupas, Buddha statues, and scenic views."
+      "address": "Kandal Province, Cambodia",
+      "distance": 40,
+      "description": "A former royal capital featuring stupas, Buddha statues, and scenic views."
     },
     {
       "placeName": "Phnom Penh Night Market",
-      "placeAddress": "Phnom Penh, Cambodia",
-      "distanceFromPhnomPenhKm": 0,
-      "placeDescription": "A lively riverside market selling street food, souvenirs, and clothing."
+      "address": "Phnom Penh, Cambodia",
+      "distance": 0,
+      "description": "A lively riverside market selling street food, souvenirs, and clothing."
     }
   ]
 }
