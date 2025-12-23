@@ -1,0 +1,150 @@
+{
+  "code": "0",
+  "status": "success",
+  "msg": "Successful.",
+  "messageDev": "Data fetched successfully from coffee_db.",
+  "data": {
+    "shopName": "Lambda Coffee Developer",
+    "owner": "Pov Ropon",
+    "location": "Phnom Penh, Cambodia",
+    "currency": "USD",
+    "drinks": [
+      {
+        "id": 1001,
+        "category": "Coffee",
+        "name": "Ice Latte",
+        "description": "Rich espresso with chilled milk over ice.",
+        "variants": [
+          { "size": "Small", "price": 2.50 },
+          { "size": "Medium", "price": 2.99 },
+          { "size": "Large", "price": 3.50 }
+        ],
+        "inventory": 45,
+        "rating": 4.8,
+        "imageUrl": "https://img.lambdacoffee.com/ice-latte.jpg",
+        "isAvailable": true
+      },
+      {
+        "id": 1002,
+        "category": "Coffee",
+        "name": "Hot Americano",
+        "description": "Espresso shots topped with hot water for a light layer of crema.",
+        "variants": [
+          { "size": "Regular", "price": 2.00 },
+          { "size": "Tall", "price": 2.50 }
+        ],
+        "inventory": 100,
+        "rating": 4.5,
+        "imageUrl": "https://img.lambdacoffee.com/americano.jpg",
+        "isAvailable": true
+      },
+      {
+        "id": 1003,
+        "category": "Tea",
+        "name": "Matcha Latte",
+        "description": "Premium Japanese Matcha whisked with creamy milk.",
+        "variants": [
+          { "size": "Medium", "price": 3.75 },
+          { "size": "Large", "price": 4.25 }
+        ],
+        "inventory": 20,
+        "rating": 4.9,
+        "imageUrl": "https://img.lambdacoffee.com/matcha.jpg",
+        "isAvailable": true
+      },
+      {
+        "id": 1004,
+        "category": "Signature",
+        "name": "Dirty Chai Latte",
+        "description": "Spiced black tea with a shot of espresso.",
+        "variants": [
+          { "size": "Standard", "price": 4.50 }
+        ],
+        "inventory": 15,
+        "rating": 4.7,
+        "imageUrl": "https://img.lambdacoffee.com/dirty-chai.jpg",
+        "isAvailable": true
+      },
+      {
+        "id": 1005,
+        "category": "Blended",
+        "name": "Caramel Frappe",
+        "description": "Coffee blended with ice, milk, and buttery caramel syrup.",
+        "variants": [
+          { "size": "Medium", "price": 4.00 },
+          { "size": "Large", "price": 4.99 }
+        ],
+        "inventory": 30,
+        "rating": 4.6,
+        "imageUrl": "https://img.lambdacoffee.com/caramel-frappe.jpg",
+        "isAvailable": true
+      },
+      {
+        "id": 1006,
+        "category": "Non-Coffee",
+        "name": "Hot Chocolate",
+        "description": "Steamed milk with our signature cocoa blend.",
+        "variants": [
+          { "size": "Small", "price": 2.75 },
+          { "size": "Large", "price": 3.75 }
+        ],
+        "inventory": 50,
+        "rating": 4.4,
+        "imageUrl": "https://img.lambdacoffee.com/hot-choco.jpg",
+        "isAvailable": true
+      },
+      {
+        "id": 1007,
+        "category": "Coffee",
+        "name": "Flat White",
+        "description": "Smooth ristretto shots with thin velvety steamed milk.",
+        "variants": [
+          { "size": "Regular", "price": 3.25 }
+        ],
+        "inventory": 25,
+        "rating": 4.8,
+        "imageUrl": "https://img.lambdacoffee.com/flat-white.jpg",
+        "isAvailable": true
+      },
+      {
+        "id": 1008,
+        "category": "Tea",
+        "name": "Earl Grey Tea",
+        "description": "Black tea infused with bergamot orange.",
+        "variants": [
+          { "size": "Pot", "price": 3.00 }
+        ],
+        "inventory": 60,
+        "rating": 4.3,
+        "imageUrl": "https://img.lambdacoffee.com/earl-grey.jpg",
+        "isAvailable": true
+      },
+      {
+        "id": 1009,
+        "category": "Seasonal",
+        "name": "Pumpkin Spice Cold Brew",
+        "description": "Cold brew topped with pumpkin cream cold foam.",
+        "variants": [
+          { "size": "Large", "price": 5.50 }
+        ],
+        "inventory": 10,
+        "rating": 4.9,
+        "imageUrl": "https://img.lambdacoffee.com/psl-coldbrew.jpg",
+        "isAvailable": false
+      },
+      {
+        "id": 1010,
+        "category": "Bakery",
+        "name": "Butter Croissant",
+        "description": "Flaky, golden-brown pastry made with real butter.",
+        "variants": [
+          { "size": "Per Unit", "price": 1.99 }
+        ],
+        "inventory": 12,
+        "rating": 4.7,
+        "imageUrl": "https://img.lambdacoffee.com/croissant.jpg",
+        "isAvailable": true
+      }
+    ]
+  }
+}
